@@ -1,10 +1,6 @@
 # An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models
 
-[Changwoo Baek](https://sites.google.com/view/changwoobaek00/%ED%99%88)<sup>1*</sup>, Jouwon Song<sup>2*</sup>, Sohyeon Kim<sup>1*</sup>, Kyeongbo Kong<sup>1†</sup>
-
-<sup>1</sup>Pusan National University, <sup>2</sup>LG Electronics
-
-<sup>*</sup>Equal contribution, <sup>†</sup>Corresponding author
+[Changwoo Baek](https://sites.google.com/view/changwoobaek00/%ED%99%88), Jouwon Song, Sohyeon Kim, Kyeongbo Kong
 
 [**🌐 Project Page**](https://higokri.github.io/ADA-VTP/) | [**📄 Paper**](#) (Coming Soon)
 
