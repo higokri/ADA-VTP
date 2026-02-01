@@ -1,7 +1,5 @@
 # An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models
 
-**ICLR 2026**
-
 [**🌐 Project Page**](https://higokri.github.io/ADA-VTP/) | [**📄 Paper**](#) (Coming Soon)
 
 ## 🎉 News
