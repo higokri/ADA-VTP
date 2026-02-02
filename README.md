@@ -41,6 +41,10 @@ For questions or collaborations, please contact:
 - Sohyeon Kim
 - Kyeongbo Kong (Corresponding author)
 
+## 🙏 Acknowledgements
+
+We thank [LLaVA](https://github.com/haotian-liu/LLaVA) and [FasterVLM](https://github.com/Theia-4869/FasterVLM) for their excellent work and open-source contributions.
+
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
